@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tahira Chohan</h1>
 
 <h3 align="center">
-Computer Science Student • Full-Stack Web Developer • AI & Machine Learning Enthusiast
+BS Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Building modern web applications, AI-powered solutions, and educational software.
+Building modern web applications, educational software, and AI-powered solutions.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;JavaScript+%7C+Python+%7C+Node.js;Building+Modern+Web+Applications;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;JavaScript+%7C+Python+%7C+Node.js;Building+Modern+Web+Applications;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,9 +19,10 @@ Building modern web applications, AI-powered solutions, and educational software
 - 🎓 BS Computer Science Student
 - 💻 Full-Stack Web Developer
 - 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently learning Advanced AI, Machine Learning & Cloud Computing
-- 🚀 Founder of ChohanSoft
-- 🎯 Passionate about building educational software and scalable web applications
+- 🌐 Founder of **ChohanSoft**
+- 🚀 Building modern web applications and educational software
+- 🌱 Currently learning **Advanced JavaScript, Python, AI/ML, and Backend Development**
+- 🎯 Goal: Become a professional software engineer and AI developer
 
 ---
 
@@ -33,25 +34,25 @@ Building modern web applications, AI-powered solutions, and educational software
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
@@ -59,84 +60,79 @@ Building modern web applications, AI-powered solutions, and educational software
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TahiraChohan&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahiraChohan&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TahiraChohan&theme=github-dark&hide_border=true"/>
-
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [CompileFlow](https://github.com/TahiraChohan/CompileFlow) | Interactive web-based compiler simulator that visualizes lexical analysis, parsing, semantic analysis, IR generation, optimization, and assembly generation. | HTML, CSS, JavaScript |
+| Hospital Management System | Full-stack CRUD system for doctors, patients, appointments, and admin dashboard. | Node.js, Express.js, MySQL |
+| AI Resume Analyzer | AI-powered ATS resume analyzer with keyword matching and improvement suggestions. | React, Node.js, AI |
+| Portfolio Website | Modern responsive portfolio website for personal branding and projects. | HTML, CSS, JavaScript |
+| Machine Learning Classification | ML classification project using preprocessing, model training, and evaluation metrics. | Python, Scikit-learn |
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TahiraChohan&theme=algolia&margin-w=10&no-frame=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=TahiraChohan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahiraChohan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+> Note: GitHub stats may take some time to appear correctly for new accounts.
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Currently Working On
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahiraChohan&theme=github-dark"/>
-
-</p>
+- Improving **CompileFlow**
+- Building more full-stack web projects
+- Learning AI and Machine Learning
+- Creating a professional developer portfolio
+- Contributing to open source
 
 ---
 
-# 🚀 Featured Projects
+## 📚 Learning Focus
 
-| Project | Description |
-|---------|-------------|
-| 🚀 CompileFlow | Interactive Compiler Construction Simulator |
-| 🏥 Hospital Management System | Node.js + Express + MySQL |
-| 🤖 AI Resume Analyzer | ATS Resume Analyzer using AI |
-| 🌐 Portfolio Website | Modern Responsive Portfolio |
-| 📊 Machine Learning Classification | Scikit-learn Classification Models |
+- JavaScript ES6+
+- React.js
+- Node.js & Express.js
+- MySQL & MongoDB
+- Python for AI/ML
+- Data Structures & Algorithms
+- Compiler Construction
+- Git & GitHub Workflow
 
 ---
 
 ## 🌍 Connect With Me
 
 <p>
-
 <a href="https://chohansoft.com">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-chohansoft.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/TahiraChohan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-TahiraChohan-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/tahiratahir">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-tahiratahir-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 </p>
 
 ---
 
+## 💡 Motto
+
 <p align="center">
+<b>Code. Learn. Build. Improve.</b>
+</p>
 
+<p align="center">
 ⭐ Thank you for visiting my GitHub profile!
-
-Let's build something amazing together.
-
 </p>
